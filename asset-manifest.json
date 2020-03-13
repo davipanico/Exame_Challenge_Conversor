@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Exame_Challenge_Conversor/static/css/main.6b7f8979.chunk.css",
+    "main.js": "/Exame_Challenge_Conversor/static/js/main.e8587034.chunk.js",
+    "main.js.map": "/Exame_Challenge_Conversor/static/js/main.e8587034.chunk.js.map",
+    "runtime-main.js": "/Exame_Challenge_Conversor/static/js/runtime-main.7dbaba4d.js",
+    "runtime-main.js.map": "/Exame_Challenge_Conversor/static/js/runtime-main.7dbaba4d.js.map",
+    "static/js/2.794bff77.chunk.js": "/Exame_Challenge_Conversor/static/js/2.794bff77.chunk.js",
+    "static/js/2.794bff77.chunk.js.map": "/Exame_Challenge_Conversor/static/js/2.794bff77.chunk.js.map",
+    "index.html": "/Exame_Challenge_Conversor/index.html",
+    "precache-manifest.0e324a6afce47ad7c7ec6856de7ff400.js": "/Exame_Challenge_Conversor/precache-manifest.0e324a6afce47ad7c7ec6856de7ff400.js",
+    "service-worker.js": "/Exame_Challenge_Conversor/service-worker.js",
+    "static/css/main.6b7f8979.chunk.css.map": "/Exame_Challenge_Conversor/static/css/main.6b7f8979.chunk.css.map",
+    "static/js/2.794bff77.chunk.js.LICENSE.txt": "/Exame_Challenge_Conversor/static/js/2.794bff77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbaba4d.js",
+    "static/js/2.794bff77.chunk.js",
+    "static/css/main.6b7f8979.chunk.css",
+    "static/js/main.e8587034.chunk.js"
+  ]
+}
