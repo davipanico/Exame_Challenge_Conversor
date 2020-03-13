@@ -1,4 +1,4 @@
-To run the project just clone the rep, and do npm start on the file directory.
+To run the project just clone the rep, and do npm start on the file directory or just acess https://davipanico.github.io/Exame_Challenge_Conversor/index.html
 
 Made all in React Js with no extra dependecies.
 
